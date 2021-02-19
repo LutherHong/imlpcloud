@@ -1,19 +1,11 @@
-/.gradle/*
-/.idea/*
-/build/*
-/gradle/*
-/logs/*
-
 # Created by .ignore support plugin (hsz.mobi)
-.gradle
-build
-logs
-out
-.idea
-# Eclipse project files
-.settings
-.classpath
-.factorypath
-.project
+### Example user template template
+### Example user template
 
-*/target/*
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+*/target/
