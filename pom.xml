@@ -11,6 +11,9 @@
         <module>product-view-service-feign</module>
         <module>My</module>
         <module>config-server</module>
+        <module>turbine</module>
+        <module>hystrix-dashboard</module>
+        <module>zuul</module>
     </modules>
     <name>imlpcloud</name>
     <description>imlpcloud</description>
